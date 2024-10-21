@@ -37,7 +37,7 @@ Masukkan pesan: risky
 Masukkan kunci (shift): 3
 Hasil enkripsi: ulvnf jdqwhqj
 
-Aplikasi Enkripsi Pesan
+## Aplikasi Enkripsi Pesan
 Fitur
 
     Enkripsi dan dekripsi pesan menggunakan Caesar Cipher dan Vigenère Cipher.
