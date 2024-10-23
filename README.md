@@ -17,6 +17,13 @@
 ## Sample Demo
 <a href="https://ibb.co.com/dGZT8KD"><img src="https://i.ibb.co.com/XSHQcJt/hunting.png" alt="hunting" border="0"></a>
 
+
+## Instalasi
+git clone https://github.com/ManuelKy08/python3
+cd python3
+pip3 install -r requirements.txt  "OR" pip3 install -r requirements.txt --break--system-packages
+python3 kalkulator.py (seterusnya ektensi .py)
+
 ## Info
 api-key.py jangan lupa untuk menambahkan api key nya, biasanya saya menggunakan website ini "https://openweathermap.org"
 ## API Client (Cuaca)
