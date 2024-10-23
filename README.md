@@ -15,7 +15,7 @@
  
 
 ## Sample Demo
-<a href="https://ibb.co.com/T4MgwYd"><img src="https://i.ibb.co.com/VgYqLJ5/python39.png" alt="python39" border="0"></a>
+<a href="https://ibb.co.com/dGZT8KD"><img src="https://i.ibb.co.com/XSHQcJt/hunting.png" alt="hunting" border="0"></a>
 
 ## Info
 api-key.py jangan lupa untuk menambahkan api key nya, biasanya saya menggunakan website ini "https://openweathermap.org"
